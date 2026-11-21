@@ -1,4 +1,4 @@
-Here is a clean, professional README description that strictly avoids emojis, bold formatting, and dashes.
+
 
 # Olrien
 
