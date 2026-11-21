@@ -10,7 +10,7 @@ Olrien is an open source platform that provides humans and AI agents with a shar
 
 Most AI agents fail in production, and human operators become overwhelmed, not due to a lack of capability, but because of how enterprise data is represented. Data is fragmented across silos, noisy, and inconsistent. Without a shared structure, AI agents cannot reliably discern relevant or authoritative data, and humans stall or act on flawed assumptions.
 
-## The Solution
+##  Solution
 
 Olrien introduces an ontology layer that sits on top of existing infrastructure. It provides the same objects, the same actions, and a single shared truth for both human operators and artificial intelligence.
 
