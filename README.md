@@ -36,13 +36,6 @@ Actions are named, pre approved operations on the ontology. Every write operatio
 * Safe Automation: AI agents can execute changes only through strictly governed, typed actions, with human in the loop approvals for significant modifications.
 * Immutable Audit Trails: Every decision, read, and write is cryptographically chained, append only, and fully auditable.
 
-## Design Principles
 
-* Open Source: Free to self host, modify, and use. There is no per seat pricing and no paywalled enterprise tier.
-* Data Sovereignty: Runs entirely on proprietary infrastructure. Data never passes through external servers.
-* No Training on Customer Data: The platform does not use customer data to train external models.
-* No Vendor Lock In: Works seamlessly with any large language model, AI assistant, or existing enterprise tool.
 
-## Getting Started
 
-Add your installation instructions, quickstart guide, or link to documentation here.
