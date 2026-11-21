@@ -34,7 +34,7 @@ Actions are named, pre approved operations on the ontology. Every write operatio
 * Zero Migration Architecture: Connects to existing infrastructure without moving, copying, or duplicating data.
 * Strict Governance and Security: Field level permissions and role based access ensure that an AI agent never sees or accesses more than the human operator it acts for.
 * Safe Automation: AI agents can execute changes only through strictly governed, typed actions, with human in the loop approvals for significant modifications.
-* Immutable Audit Trails: Every decision, read, and write is cryptographically chained, append only, and fully auditable.
+
 
 
 
